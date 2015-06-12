@@ -1,0 +1,110 @@
+/*!
+ * Shoowlace v1(http://shoowlace.com)
+ * Copyright 2014
+ */
+ 
+ 
+ 
+/* Buttons */
+
+.button-default {
+	border: none;
+	border-radius: 4px;
+	box-sizing:border-box;
+	padding: 10px;
+	color: #fff;
+	cursor: pointer;
+	outline:none;
+}
+
+.button-default{
+  background-color: #6C7A89;
+  border-color: #dbdbdb;
+  border-color: #ccc;
+}
+
+.button-default:hover,
+.button-default:focus {
+	background-color: #34495E;
+}
+
+.button-info {
+	border: none;
+	border-radius: 4px;
+	padding: 10px;
+	color: #fff;
+	cursor: pointer;
+	outline:none;
+}
+
+.button-info {
+  background-color: #3498DB;
+  border-color: #3498DB;
+  border-color: #ccc;
+}
+
+.button-info:hover,
+.button-info:focus {
+	background-color: #2574A9;
+}
+
+.button-success {
+	border: none;
+	border-radius: 4px;
+	padding: 10px;
+	color: #fff;
+	cursor: pointer;
+	outline:none;
+}
+
+.button-success {
+  background-color: #87D37C;
+  border-color: #87D37C;
+  border-color: #ccc;
+}
+
+.button-success:hover,
+.button-success:focus {
+	background-color: #78BE6F;
+}
+
+.button-warning {
+	border: none;
+	border-radius: 4px;
+	padding: 10px;
+	color: #fff;
+	cursor: pointer;
+	outline:none;
+}
+
+.button-warning {
+  background-color: #F4B350;
+  border-color: #F4B350;
+  border-color: #ccc;
+}
+
+.button-warning:hover,
+.button-warning:focus {
+	background-color: #F5AB35;
+}
+
+.button-danger {
+	border: none;
+	border-radius: 4px;
+	padding: 10px;
+	color: #fff;
+	cursor: pointer;
+	outline:none;
+}
+
+.button-danger {
+  background-color: #E74C3C;
+  border-color: #E74C3C;
+  border-color: #ccc;
+}
+
+.button-danger:hover,
+.button-danger:focus {
+	background-color: #D64541;
+}
+
